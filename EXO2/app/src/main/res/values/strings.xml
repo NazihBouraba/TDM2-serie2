@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EXO2</string>
+    <string name="le_numero">le numero</string>
+    <string name="le_nom">Le nom</string>
+    <string name="le_mail">le mail</string>
+    <string name="ajouter">ajouter</string>
+</resources>

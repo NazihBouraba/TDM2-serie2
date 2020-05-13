@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EXO1</string>
+    <string name="category_numbers">Numbers Activity</string>
+    <string name="video_activity">Video Activity</string>
+</resources>

@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.exo1.MainActivity">
+
+    <TextView
+        android:id="@+id/numbers"
+        style="@style/CategoryStyle"
+        android:background="@color/category_numbers"
+        android:text="@string/category_numbers"
+         />
+
+    <TextView
+        android:id="@+id/video"
+        style="@style/CategoryStyle"
+        android:background="@color/category_videos"
+        android:text="@string/video_activity"
+        />
+
+
+
+</LinearLayout>
